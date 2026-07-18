@@ -1,0 +1,5 @@
+[["lyondellbasell-site-1" :site/url "https://www.lyondellbasell.com" 1 :add]
+ ["lyondellbasell-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["lyondellbasell-site-1" :site/http-status 200 1 :add]
+ ["lyondellbasell-site-1" :site/title "LyondellBasell (LYB)" 1 :add]
+ ["lyondellbasell-site-1" :site/description "LyondellBasell creates solutions for everyday sustainable living as the global chemical industry leader &amp; leading polymer producer." 1 :add]]
