@@ -164,5 +164,5 @@ Privacy settings
 " 1 :add]
  ["lyondellbasell-tos-1" :tos/source-url "https://www.lyondellbasell.com/en/terms-of-use/" 1 :add]
  ["lyondellbasell-tos-1" :tos/retrieved-at "2026-07-10" 1 :add]
- ["lyondellbasell-tos-1" :tos/sha256 "141ab2a756a94d0a522ad43e8431ecb4b95cac94895896d1dfb656b69a314d2a" 1 :add]
+ ["lyondellbasell-tos-1" :tos/sha256 "df9a9c12a6f347e16d4814c09c1a047fc16119e24b74448dde5ee61d661582e8" 1 :add]
  ["lyondellbasell-tos-1" :tos/doc-type :terms-of-service 1 :add]]
